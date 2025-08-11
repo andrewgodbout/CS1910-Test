@@ -1,7 +1,7 @@
 OK_FORMAT = True
 
 test = {   'name': 'q2',
-    'points': None,
+    'points': 7,
     'suites': [   {   'cases': [   {'code': ">>> q2_data[0].strip().lower() == 'x'\nTrue", 'hidden': False, 'locked': False},
                                    {'code': ">>> q2_data[1].strip().lower() == 'increasing'\nTrue", 'hidden': False, 'locked': False},
                                    {'code': ">>> q2_data[2].strip().lower() == 'y'\nTrue", 'hidden': False, 'locked': False},
